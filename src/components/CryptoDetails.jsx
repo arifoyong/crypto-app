@@ -4,6 +4,7 @@ const CryptoDetails = () => {
   return (
     <div>
       Cryptodetails
+      lore
     </div>
   )
 }
